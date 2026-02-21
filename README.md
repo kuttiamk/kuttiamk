@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kuttiamk/kuttiamk/main/assets/header.webp" alt="Cyberpunk Banner" width="100%" onerror="this.onerror=null; this.src='https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Muthukutti%20Arunachalam&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Observability%20Engineer%20%7C%20DevOps%20%7C%20QA&descAlignY=55&descAlign=50';"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Muthukutti%20Arunachalam&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Observability%20Engineer%20%7C%20DevOps%20%7C%QA&descAlignY=55&descAlign=50" alt="Muthukutti Arunachalam Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi ☁️, I'm Muthukutti</h1>
@@ -34,14 +34,10 @@
 <div align="center">
   <h2>📈 GitHub Stats & Activity</h2>
   <a href="https://github.com/kuttiamk">
-    <img src="https://github-readme-stats.vercel.app/api?username=kuttiamk&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kuttiamk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/kuttiamk">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuttiamk&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-  <br><br>
-  <a href="https://github.com/kuttiamk">
-    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&hide_border=true" alt="Dynamic Quote" />
   </a>
 </div>
 
