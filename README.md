@@ -21,16 +21,15 @@
       <h2>🚀 Featured Project: Polyglot Mart</h2>
       <p><b>A World-Class Microservices E-Commerce Platform</b></p>
       <p>9 services · 7 programming languages · Built-in observability & load testing</p>
-      <a href="https://github.com/kuttiamk/polyglot-microservice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuttiamk&repo=polyglot-microservice&theme=radical" alt="Polyglot Microservice" />
-      </a>
-      <br><br>
-      <p><i>It demonstrates modern application patterns across multiple services, databases, and programming languages, with integrated APM tools (Datadog, Dynatrace, New Relic, etc.).</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Source-Private_Repository-EA4335?style=for-the-badge&logo=github&logoColor=white" alt="Private Repository" />
+      </p>
+      <p><i>A complete e-commerce platform demonstrating modern application patterns across multiple services, databases, and programming languages, with integrated APM tools (Datadog, Dynatrace, New Relic, etc.). Because it contains proprietary logic, the source code is kept private to protect the intellectual property.</i></p>
     </td>
     <td align="center" width="50%">
       <h2>📈 GitHub Stats</h2>
       <a href="https://github.com/kuttiamk">
-        <img src="https://github-readme-stats.vercel.app/api?username=kuttiamk&show_icons=true&theme=radical" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kuttiamk&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
       </a>
       <br><br>
       <a href="https://github.com/kuttiamk">
