@@ -15,77 +15,62 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h2>🚀 Featured Project: Polyglot Mart</h2>
-      <p><b>A World-Class Microservices E-Commerce Platform</b></p>
-      <p>9 services · 7 programming languages · Built-in observability & load testing</p>
-      <p>
-        <img src="https://img.shields.io/badge/Source-Private_Repository-EA4335?style=for-the-badge&logo=github&logoColor=white" alt="Private Repository" />
-      </p>
-      <p><i>A complete e-commerce platform demonstrating modern application patterns across multiple services, databases, and programming languages, with integrated APM tools (Datadog, Dynatrace, New Relic, etc.). Because it contains proprietary logic, the source code is kept private to protect the intellectual property.</i></p>
-    </td>
-    <td align="center" width="50%">
-      <h2>📈 GitHub Stats</h2>
-      <a href="https://github.com/kuttiamk">
-        <img src="https://github-readme-stats.vercel.app/api?username=kuttiamk&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-      </a>
-      <br><br>
-      <a href="https://github.com/kuttiamk">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuttiamk&theme=radical" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>🚀 Featured Project: Polyglot Mart</h2>
+  <p><b>A World-Class Microservices E-Commerce Platform</b></p>
+  <p>9 services · 7 programming languages · Built-in observability & load testing</p>
+  <p>
+    <img src="https://img.shields.io/badge/Source-Private_Repository-EA4335?style=for-the-badge&logo=github&logoColor=white" alt="Private Repository" />
+  </p>
+  <p><i>A complete e-commerce platform demonstrating modern application patterns across multiple services, databases, and programming languages, with integrated APM tools (Datadog, Dynatrace, New Relic, etc.). Because it contains proprietary logic, the source code is kept private to protect the intellectual property.</i></p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 GitHub Stats</h2>
+  <a href="https://github.com/kuttiamk">
+    <img src="https://github-readme-stats.vercel.app/api?username=kuttiamk&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/kuttiamk">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuttiamk&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.datadoghq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://newrelic.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="newrelic" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center"><b>🔭 Observability & APM</b></td>
+    <td width="33%" align="center"><b>☁️ Cloud & Infrastructure</b></td>
+    <td width="33%" align="center"><b>🗄️ Databases & Programming</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" /><br><br>
+      <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=New%20Relic&logoColor=white" alt="New Relic" /><br><br>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /><br><br>
+      <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana" /><br><br>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br><br>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /><br><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /><br><br>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" /><br><br>
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br><br>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /><br><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+  </tr>
+</table>
 
 ---
 
