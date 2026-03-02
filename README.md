@@ -84,7 +84,7 @@
   <a href="https://www.linkedin.com/in/a-m-kutti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://bold.pro/my/muthukutti-arunachalam-241207120636" target="_blank">
+  <a href="https://muthukutti.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.instagram.com/kutti_amk/" target="_blank">
